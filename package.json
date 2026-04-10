@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-tezenis",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Tezenis da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-tezenis",
+    "voucher-tezenis",
+    "coupon-tezenis",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/tezenis.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-tezenis.git"
+  }
+}
